@@ -1,2 +1,2 @@
-# anmesh-tripathi-observatory
+# anmesh-obs
 Welcome to my page
